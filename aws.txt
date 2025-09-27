@@ -1,0 +1,1 @@
+all the files in the desktop should be moved to aws cloud
